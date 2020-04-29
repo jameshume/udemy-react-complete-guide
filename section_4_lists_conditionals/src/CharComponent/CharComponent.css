@@ -1,0 +1,7 @@
+.CharComponent {
+  background: lightblue;
+}
+
+.CharComponent:hover {
+  background: lightcoral;
+}
